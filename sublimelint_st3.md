@@ -14,11 +14,11 @@
    the following:
 
    ```json
-           "paths": {
-            "osx": [
-                "~/Library/Python/2.7/bin/"
-            ]
-        },
+   "paths": {
+        "osx": [
+            "~/Library/Python/2.7/bin/"
+        ]
+    },
    ```
 
 You might need to restart ST3 after this.
